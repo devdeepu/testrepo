@@ -1,1 +1,1 @@
-install-module az -force -scope CurrentUser
+Install-Module -Name Az -Force
